@@ -1,5 +1,5 @@
 document.body.innerHTML = `
-<H1 id="title">TITLE </H1>
+<H1 id="title">Basic form</H1>
 <p id="description">DOM Manipulation with Forms</p>
 
 <div class="container">
